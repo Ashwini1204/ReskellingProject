@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>Infycart_UserMS</artifactId>
+	<artifactId>UserMS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Infycart_UserMS</name>
+	<name>UserMS</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
