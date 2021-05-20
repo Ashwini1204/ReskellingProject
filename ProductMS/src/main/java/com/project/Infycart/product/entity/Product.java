@@ -14,8 +14,8 @@ public class Product {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	int prodId;
-	@Column(nullable = false)
-	String brand;
+	@Column(name="product_name" ,nullable = false)
+	String productname;
 	@Column(nullable = false)
 	String category;
 	@Column(nullable = false)
@@ -24,17 +24,17 @@ public class Product {
 	String image;
 	@Column(nullable = false)
 	double price;
-	@Column(nullable = false)
-	String productname;
-	@Column
+	
+	@Column(name="product_rating" ,nullable = false)
 	String rating;
-	@Column(nullable = false)
+	@Column(name="seller_id",nullable = false)
 	int sellerid;
 	@Column(nullable = false)
 	int stock;
 	@Column(nullable = false)
 	String subcategory;
-	
+	@Column(nullable = false)
+	String brand;
 	
 	public Product() {
 		super();
