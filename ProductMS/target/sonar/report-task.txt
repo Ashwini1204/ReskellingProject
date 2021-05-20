@@ -3,5 +3,5 @@ projectKey=reskill
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.20278
 dashboardUrl=https://sonarcloud.io/dashboard?id=reskill
-ceTaskId=AXmJrDo9J9oCsG-Fbmkp
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmJrDo9J9oCsG-Fbmkp
+ceTaskId=AXmJxc2JNwpZ6Sf2VVnq
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXmJxc2JNwpZ6Sf2VVnq
